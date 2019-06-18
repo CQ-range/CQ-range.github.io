@@ -1,9 +1,11 @@
-import java.util.Scanner; 
+<heml>
+<head>
+<meta charset= "UTF-8">
+<meta name="viewport" content="width=device-width,initial-1>
 
-import javax.swing.JOptionPane;
-public class YANG {
-	public static void main(String[] args){
-	  		for(int i=0;i<3000;i++){
+<scrip>
+function Yang() {
+  		for(int i=0;i<3000;i++){
 	 		JOptionPane.showMessageDialog(null,"love you"); 
 	 		System.out.println(i); 
 		}
