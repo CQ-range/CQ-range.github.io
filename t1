@@ -1,14 +1,4 @@
-<heml>
-<head>
-<meta charset= "UTF-8">
-<meta name="viewport" content="width=device-width,initial-1>
-
-<scrip>
-function Yang() {
-  		for(int i=0;i<3000;i++){
-	 		JOptionPane.showMessageDialog(null,"love you"); 
-	 		System.out.println(i); 
-		}
-	}
-}
-	
+杨家有女初长成
+文章凝练气自华
+玲珑骰子安红豆
+回眸一笑胜星华
