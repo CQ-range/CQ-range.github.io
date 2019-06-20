@@ -1,16 +1,10 @@
-
-printl("杨家有女初长成");
-printl("文章凝练气自华");
-"玲珑骰子安红豆"
-"回眸一笑胜星华"
-
-<!doctype html>
+ <!doctype html>
 <html>
     <head>
         <!-- 声明当前页面的编码集：charset=gbk,gb2312(中文编码) , utf-8(国际编码) -->
         <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
         <!-- 声明当前页面的三元素 -->
-        <title>helloWorld--zxk</title>
+        <title>Are you OK?</title>
         <meta name='keywords' content='关键词,关键词'>
         <meta name='description' content=''>
  
@@ -19,7 +13,10 @@ printl("文章凝练气自华");
     </head>
 <body>
  
-精于勤<br />荒于嬉
+杨家有女初长成
+文章凝练气自华
+玲珑骰子安红豆
+回眸一笑胜星华
  
  </body>
 </html>
