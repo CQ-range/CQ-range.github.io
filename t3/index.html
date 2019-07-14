@@ -125,7 +125,12 @@
                   <img style="display:inline-block; width:150px; height:50px; float:left" src='jBarCOde.jpg'/>
                 </div>
          <div style="width:99%; height:30px;"><span><h4>报销概要</h4></span></div>
- 
- 
+ <div id="datetime">
+    <script>
+        setInterval("document.getElementById('datetime').innerHTML=new Date().toLocaleString();", 1000);
+    </script>
+</div>
+
+
  </body>
 </html>
